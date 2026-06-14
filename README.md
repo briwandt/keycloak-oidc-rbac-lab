@@ -1,4 +1,4 @@
-# K# Keycloak OIDC RBAC Lab
+# Keycloak OIDC RBAC Lab
 
 ## Overview
 
