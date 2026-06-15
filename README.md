@@ -272,6 +272,31 @@ keycloak-oidc-rbac-lab/
 ```
 
 ---
+## Screenshots
+
+### Keycloak Home
+![Keycloak Home](screenshots/keycloak-home.png)
+
+### Identity Lab Realm
+![Identity Lab Realm](screenshots/identity-lab-realm.png)
+
+### Demo App Client
+![Demo App Client](screenshots/demo-app-client.png)
+
+### Alice Role Mapping
+![Alice Role Mapping](screenshots/alice-role-mapping.png)
+
+### Bob Role Mapping
+![Bob Role Mapping](screenshots/bob-role-mapping.png)
+
+### OIDC Discovery
+![OIDC Discovery](screenshots/oidc-discovery.png)
+
+### Alice JWT
+![Alice JWT](screenshots/alice-jwt.png)
+
+### Bob JWT
+![Bob JWT](screenshots/bob-jwt.png)
 
 ## Conclusion
 
